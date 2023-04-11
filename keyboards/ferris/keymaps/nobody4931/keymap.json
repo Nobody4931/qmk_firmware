@@ -1,0 +1,70 @@
+{    "version": 1,
+    "notes": "",
+    "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
+    "keyboard": "ferris/sweep",
+    "keymap": "nobody4931",
+    "layout": "LAYOUT_split_3x5_2",
+    "layers": [
+        ["KC_Q"         , "KC_W"        , "KC_F"        , "KC_P"        , "KC_B",
+         "KC_J"         , "KC_L"        , "KC_U"        , "KC_Y"        , "KC_NO",
+
+         "LGUI_T(KC_A)" , "LALT_T(KC_R)", "LCTL_T(KC_S)", "LSFT_T(KC_T)", "KC_G",
+         "KC_M"         , "RSFT_T(KC_N)", "RCTL_T(KC_E)", "RALT_T(KC_I)", "RGUI_T(KC_O)",
+
+         "KC_Z"         , "KC_X"        , "KC_C"        , "KC_D"        , "KC_V",
+         "KC_K"         , "KC_H"        , "KC_COMM"     , "KC_DOT"      , "KC_CAPS",
+
+         "LT(1,KC_TAB)" , "LT(4,KC_SPC)",
+         "LT(3,KC_BSPC)", "LT(2,KC_ENT)"
+        ],
+        ["KC_6"         , "KC_4"        , "KC_2"        , "KC_0"        , "KC_8",
+         "KC_9"         , "KC_1"        , "KC_3"        , "KC_5"        , "KC_7",
+
+         "KC_QUOT"      , "KC_LBRC"     , "KC_LCBR"     , "KC_LPRN"     , "KC_LT",
+         "KC_GT"        , "KC_RPRN"     , "KC_RCBR"     , "KC_RBRC"     , "KC_DQUO",
+
+         "KC_GRV"       , "KC_SCLN"     , "KC_COMM"     , "KC_DOT"      , "KC_NO",
+         "KC_NO"        , "KC_DOT"      , "KC_COMM"     , "KC_SCLN"     , "KC_GRV",
+
+         "KC_NO"        , "KC_NO",
+         "KC_SPC"       , "KC_ENT"
+        ],
+        ["KC_NO"        , "KC_CIRC"     , "KC_PLUS"     , "KC_AT"       , "KC_NO",
+         "KC_NO"        , "KC_PIPE"     , "KC_SLSH"     , "KC_PERC"     , "KC_NO",
+
+         "KC_NO"        , "KC_EXLM"     , "KC_MINS"     , "KC_EQL"      , "KC_NO",
+         "KC_NO"        , "KC_COLN"     , "KC_UNDS"     , "KC_QUES"     , "KC_NO",
+
+         "KC_NO"        , "KC_TILD"     , "KC_ASTR"     , "KC_HASH"     , "KC_NO",
+         "KC_NO"        , "KC_AMPR"     , "KC_BSLS"     , "KC_DLR"      , "KC_NO",
+
+         "KC_NO"        , "KC_NO",
+         "KC_NO"        , "KC_NO"
+        ],
+        ["KC_NO"        , "KC_NO"       , "KC_NO"       , "KC_NO"       , "KC_NO",
+         "KC_NO"        , "KC_PGUP"     , "KC_NO"       , "KC_NO"       , "KC_NO",
+
+         "KC_HOME"      , "KC_INS"      , "KC_DEL"      , "KC_END"      , "KC_NO",
+         "KC_NO"        , "KC_LEFT"     , "KC_DOWN"     , "KC_UP"       , "KC_RGHT",
+
+         "KC_NO"        , "KC_NO"       , "KC_NO"       , "KC_NO"       , "KC_NO",
+         "KC_NO"        , "KC_PGDN"     , "KC_NO"       , "KC_NO"       , "KC_NO",
+
+         "KC_NO"        , "KC_NO",
+         "KC_NO"        , "KC_NO"
+        ],
+        ["KC_MUTE"      , "KC_VOLD"     , "KC_VOLU"     , "LCTL(KC_V)"  , "KC_BSPC",
+         "KC_BRIU"      , "KC_F1"       , "KC_F2"       , "KC_F3"       , "KC_F4",
+
+         "LALT(KC_F4)"  , "KC_BTN1"     , "KC_BTN2"     , "KC_ESC"      , "KC_ENT",
+         "KC_PSCR"      , "KC_F5"       , "KC_F6"       , "KC_F7"       , "KC_F8",
+
+         "KC_MPLY"      , "KC_MPRV"     , "KC_MNXT"     , "LCTL(KC_C)"  , "SGUI(KC_S)",
+         "KC_BRID"      , "KC_F9"       , "KC_F10"      , "KC_F11"      , "KC_F12",
+
+         "KC_NO"        , "KC_NO",
+         "KC_NO"        , "KC_NO"
+        ]
+    ],
+    "author": ""
+}
