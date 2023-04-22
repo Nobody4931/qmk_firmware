@@ -23,32 +23,32 @@
          "KC_QUOT"      , "KC_LBRC"     , "KC_LCBR"     , "KC_LPRN"     , "KC_LT",
          "KC_GT"        , "KC_RPRN"     , "KC_RCBR"     , "KC_RBRC"     , "KC_DQUO",
 
-         "KC_GRV"       , "KC_SCLN"     , "KC_COMM"     , "KC_DOT"      , "KC_NO",
-         "KC_NO"        , "KC_DOT"      , "KC_COMM"     , "KC_SCLN"     , "KC_GRV",
+         "KC_GRV"       , "KC_DOT"      , "KC_COMM"     , "KC_SCLN"     , "KC_NO",
+         "KC_NO"        , "KC_SCLN"     , "KC_COMM"     , "KC_DOT"      , "KC_GRV",
 
          "KC_NO"        , "KC_NO",
          "KC_SPC"       , "KC_ENT"
         ],
-        ["KC_NO"        , "KC_CIRC"     , "KC_PLUS"     , "KC_AT"       , "KC_NO",
-         "KC_NO"        , "KC_PIPE"     , "KC_SLSH"     , "KC_PERC"     , "KC_NO",
+        ["KC_NO"        , "KC_CIRC"     , "KC_PLUS"     , "KC_HASH"     , "KC_NO",
+         "KC_NO"        , "KC_AMPR"     , "KC_SLSH"     , "KC_PERC"     , "KC_NO",
 
          "KC_NO"        , "KC_EXLM"     , "KC_MINS"     , "KC_EQL"      , "KC_NO",
          "KC_NO"        , "KC_COLN"     , "KC_UNDS"     , "KC_QUES"     , "KC_NO",
 
-         "KC_NO"        , "KC_TILD"     , "KC_ASTR"     , "KC_HASH"     , "KC_NO",
-         "KC_NO"        , "KC_AMPR"     , "KC_BSLS"     , "KC_DLR"      , "KC_NO",
+         "KC_NO"        , "KC_TILD"     , "KC_ASTR"     , "KC_AT"       , "KC_NO",
+         "KC_NO"        , "KC_PIPE"     , "KC_BSLS"     , "KC_DLR"      , "KC_NO",
 
          "KC_NO"        , "KC_NO",
          "KC_NO"        , "KC_NO"
         ],
         ["KC_NO"        , "KC_NO"       , "KC_NO"       , "KC_NO"       , "KC_NO",
-         "KC_NO"        , "KC_PGUP"     , "KC_NO"       , "KC_NO"       , "KC_NO",
+         "KC_NO"        , "KC_NO"       , "KC_NO"       , "KC_NO"       , "KC_NO",
 
          "KC_HOME"      , "KC_INS"      , "KC_DEL"      , "KC_END"      , "KC_NO",
          "KC_NO"        , "KC_LEFT"     , "KC_DOWN"     , "KC_UP"       , "KC_RGHT",
 
          "KC_NO"        , "KC_NO"       , "KC_NO"       , "KC_NO"       , "KC_NO",
-         "KC_NO"        , "KC_PGDN"     , "KC_NO"       , "KC_NO"       , "KC_NO",
+         "KC_NO"        , "KC_NO"       , "KC_PGDN"     , "KC_PGUP"     , "KC_NO",
 
          "KC_NO"        , "KC_NO",
          "KC_NO"        , "KC_NO"
